@@ -1,0 +1,15 @@
+*   6390c35 Merge branch 'master' of https://github.com/DraganJonceski/SI_2025_lab1_211225 Merge Pull Requests approved by GitHub Interface
+|\  
+| *   0e9552e Merge pull request #11 from DraganJonceski/7-count-tasks-per-category
+| |\  
+| | * a61f7e7 Implement countTasksPerCategory
+| * |   f7d03f3 Merge pull request #10 from DraganJonceski/5-filter-tasks-by-category
+| |\ \  
+| | |/  
+| |/|   
+| | * 162e29b Implement filterTasksByCategory
+| |/  
+* / 92b1544 Implement markCategoryCompleted
+|/  
+* e2f0097 Add starter code
+* 4ed4f33 Ïnitial commit
